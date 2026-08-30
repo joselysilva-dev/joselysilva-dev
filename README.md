@@ -21,11 +21,11 @@ da estrutura dos dados e criação de APIs até a interface e publicação.
 
 Sou estudante do **2º semestre de Engenharia de Software**, com foco em desenvolvimento **Backend e Full Stack**.
 
-Minha formação combina programação, desenvolvimento web, bancos de dados, segurança, computação em nuvem e fundamentos de engenharia de software.
+Minha formação combina programação, desenvolvimento web, bancos de dados, segurança, computação em nuvem e fundamentos de Engenharia de Software.
 
 Estou construindo minha experiência por meio da faculdade, cursos complementares, laboratórios técnicos e projetos práticos. Já desenvolvo interfaces responsivas, aplicações web, integrações e APIs em ambientes de aprendizagem.
 
-Atualmente, também estou desenvolvendo conhecimentos básicos em **bancos de dados**, incluindo modelagem conceitual, lógica e física, fundamentos de SQL, relacionamentos e persistência de dados.
+Atualmente, também estou desenvolvendo conhecimentos em **bancos de dados**, incluindo modelagem conceitual, lógica e física, fundamentos de SQL, relacionamentos e persistência de dados.
 
 Busco transformar necessidades reais em soluções digitais organizadas, acessíveis e preparadas para evoluir.
 
@@ -34,9 +34,9 @@ Busco transformar necessidades reais em soluções digitais organizadas, acessí
 | **Formação** | Engenharia de Software — 2º semestre |
 | **Foco profissional** | Desenvolvimento Backend e Full Stack |
 | **Experiência prática** | Aplicações web, interfaces responsivas, APIs e integrações |
-| **Bancos de dados** | Noções básicas de modelagem, SQL e persistência |
+| **Bancos de dados** | Modelagem, SQL, relacionamentos e persistência |
 | **Disponibilidade** | Estágio, oportunidades remotas e projetos freelancer |
-| **Localização** | Brasil |
+| **Localização** | Camanducaia, MG, Brasil |
 
 > Software should be reliable, accessible and built to create real value.
 
@@ -95,12 +95,12 @@ Plataforma digital desenvolvida para fortalecer a presença online de uma academ
 - Apresentação de planos, estrutura e profissionais
 - Galeria de imagens
 - Depoimentos
-- Canais de contato
 - Integração com WhatsApp
 - Integração com Google Maps
 - Fundamentos de SEO
 - Progressive Web App
-- API de aprendizagem desenvolvida com FastAPI
+- API desenvolvida com FastAPI
+- Estrutura administrativa em desenvolvimento
 
 **Engenharia aplicada**
 
@@ -110,8 +110,8 @@ Plataforma digital desenvolvida para fortalecer a presença online de uma academ
 - Semântica e fundamentos de acessibilidade
 - Configuração por variáveis de ambiente
 - Backend com endpoints de status e alunos
-- Persistência utilizando SQLAlchemy e SQLite
-- Estrutura preparada para futura área do aluno e administração
+- Persistência com SQLAlchemy e SQLite
+- Estrutura preparada para área do aluno e administração
 
 **Stack:** React, Vite, JavaScript, CSS, Python, FastAPI, SQLAlchemy e SQLite.
 
@@ -121,7 +121,7 @@ Plataforma digital desenvolvida para fortalecer a presença online de uma academ
 
 ## FutureTech Hub
 
-Hub educacional e laboratório de tecnologia criado para reunir conteúdos, projetos e experimentos sobre engenharia de software, inteligência artificial, cloud, certificações e carreira.
+Hub educacional e laboratório de tecnologia criado para reunir conteúdos, projetos e experimentos sobre Engenharia de Software, inteligência artificial, cloud, certificações e carreira.
 
 **Principais recursos**
 
@@ -216,50 +216,20 @@ Plataforma Full Stack com área pública, ambiente protegido da aluna e administ
 
 ---
 
-## Essência Green
-
-Experiência digital desenvolvida para apresentar produtos artesanais em resina e fortalecer a presença online de um pequeno negócio.
-
-**Principais recursos**
-
-- Landing page responsiva
-- Apresentação dos produtos
-- Navegação organizada por seções
-- Estrutura de catálogo
-- História e posicionamento da marca
-- Canais de contato
-- Experiência adaptada para dispositivos móveis
-
-**Engenharia aplicada**
-
-- Componentização com React
-- Separação das seções da interface
-- Integração com Supabase
-- Estrutura preparada para evolução do catálogo
-- Interface responsiva
-- Organização visual focada nos produtos
-- Build e validação com Vite
-
-**Stack:** React, Vite, JavaScript, CSS e Supabase.
-
-[Ver Essência Green →](https://github.com/joselysilva-dev/essencia-green)
-
----
-
 ## 🧪 Laboratórios técnicos e aprendizagem
 
-Os projetos desta seção registram minha evolução acadêmica e prática em Backend, programação, experiência do usuário e ferramentas de engenharia.
+Os projetos desta seção registram minha evolução acadêmica e prática em Backend, programação, experiência do usuário e ferramentas de Engenharia de Software.
 
 | Projeto | Área | Conhecimentos desenvolvidos |
 |---|---|---|
-| **Backend Learning Lab** | Backend | C#, ASP.NET Core, Entity Framework Core, SQLite e Swagger |
-| **Minha Primeira API** | Backend | Endpoints REST, .NET, persistência e documentação de APIs |
-| **GPA Calculator** | Fundamentos | C#, lógica, variáveis, cálculos e aplicações de console |
-| **JourneyPro** | UX/UI | Pesquisa, persona, arquitetura da informação e acessibilidade |
-| **Mãe Leve Planner** | Produto e UX/UI | Jornada do usuário, organização de tarefas e prototipação mobile |
-| **LUARA Media Kit** | Frontend e identidade visual | HTML, CSS, JavaScript e apresentação institucional |
+| [Backend Learning Lab](https://github.com/joselysilva-dev/backend-learning-lab) | Backend | C#, ASP.NET Core, Entity Framework Core, SQLite e Swagger |
+| [GPA Calculator](https://github.com/joselysilva-dev/01-csharp-gpa-calculator) | Fundamentos | C#, .NET, lógica, variáveis, cálculos e aplicações de console |
+| [Cloud DevOps Lab](https://github.com/joselysilva-dev/clouddevops-lab) | Cloud e DevOps | ASP.NET Core, Azure, Terraform e GitHub Actions |
+| [JourneyPro](https://github.com/joselysilva-dev/journeypro-ux-case) | UX/UI | Pesquisa, persona, arquitetura da informação e acessibilidade |
+| [Mãe Leve Planner](https://github.com/joselysilva-dev/mae-leveplanner) | Produto e UX/UI | Jornada do usuário, organização de tarefas e prototipação mobile |
+| [Introduction to Git](https://github.com/joselysilva-dev/skills-introduction-to-git) | Git e GitHub | Controle de versão, branches, commits e colaboração |
 
-> Os laboratórios são apresentados separadamente dos projetos principais para demonstrar minha evolução técnica com clareza.
+> Os laboratórios são apresentados separadamente dos projetos principais para demonstrar minha evolução acadêmica e técnica com clareza.
 
 ---
 
@@ -268,7 +238,7 @@ Os projetos desta seção registram minha evolução acadêmica e prática em Ba
 | Área | Conhecimentos e práticas |
 |---|---|
 | **Backend** | APIs REST, validação de dados, tratamento de erros e separação de responsabilidades |
-| **Bancos de dados** | Noções básicas de modelagem, relacionamentos, SQL, migrations e persistência |
+| **Bancos de dados** | Modelagem, relacionamentos, SQL, migrations e persistência |
 | **Segurança** | Autenticação, autorização, proteção de rotas e variáveis de ambiente |
 | **Frontend** | Componentização, responsividade, acessibilidade e estados de interface |
 | **Qualidade** | Git, documentação, lint, build e testes de API |
