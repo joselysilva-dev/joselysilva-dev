@@ -5,7 +5,7 @@
 ### Engenharia de software com propósito, organização e criatividade
 
 Desenvolvo aplicações web e estudo a construção de soluções digitais completas,  
-da estrutura dos dados e criação de APIs até a interface e publicação.
+da criação de APIs até o desenvolvimento da interface e publicação.
 
 <br>
 
@@ -21,11 +21,11 @@ da estrutura dos dados e criação de APIs até a interface e publicação.
 
 Sou estudante do **2º semestre de Engenharia de Software**, com foco em desenvolvimento **Backend e Full Stack**.
 
-Minha formação combina programação, desenvolvimento web, bancos de dados, segurança, computação em nuvem e fundamentos de Engenharia de Software.
+Minha formação combina programação, desenvolvimento web, segurança, computação em nuvem e fundamentos de Engenharia de Software.
 
 Estou construindo minha experiência por meio da faculdade, cursos complementares, laboratórios técnicos e projetos práticos. Já desenvolvo interfaces responsivas, aplicações web, integrações e APIs em ambientes de aprendizagem.
 
-Atualmente, também estou desenvolvendo conhecimentos em **bancos de dados**, incluindo modelagem conceitual, lógica e física, fundamentos de SQL, relacionamentos e persistência de dados.
+Atualmente, estou cursando a disciplina de **Banco de Dados** na graduação e desenvolvendo conhecimentos iniciais em **PostgreSQL e linguagem SQL**.
 
 Busco transformar necessidades reais em soluções digitais organizadas, acessíveis e preparadas para evoluir.
 
@@ -34,7 +34,7 @@ Busco transformar necessidades reais em soluções digitais organizadas, acessí
 | **Formação** | Engenharia de Software — 2º semestre |
 | **Foco profissional** | Desenvolvimento Backend e Full Stack |
 | **Experiência prática** | Aplicações web, interfaces responsivas, APIs e integrações |
-| **Bancos de dados** | Modelagem, SQL, relacionamentos e persistência |
+| **Banco de dados** | Conhecimentos iniciais em PostgreSQL e SQL |
 | **Disponibilidade** | Estágio, oportunidades remotas e projetos freelancer |
 | **Localização** | Camanducaia, MG, Brasil |
 
@@ -62,13 +62,9 @@ Busco transformar necessidades reais em soluções digitais organizadas, acessí
 ![CSS3](https://img.shields.io/badge/CSS3-2A1835?style=for-the-badge&logo=css3&logoColor=F4B8E4)
 ![Vite](https://img.shields.io/badge/Vite-2A1835?style=for-the-badge&logo=vite&logoColor=C7A0FF)
 
-### Bancos de dados — em aprendizado
+### Banco de dados — em aprendizado
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2A1835?style=for-the-badge&logo=postgresql&logoColor=C7A0FF)
-![MySQL](https://img.shields.io/badge/MySQL-2A1835?style=for-the-badge&logo=mysql&logoColor=F4B8E4)
-![SQLite](https://img.shields.io/badge/SQLite-2A1835?style=for-the-badge&logo=sqlite&logoColor=C7A0FF)
-![Supabase](https://img.shields.io/badge/Supabase-2A1835?style=for-the-badge&logo=supabase&logoColor=F4B8E4)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2A1835?style=for-the-badge&logo=python&logoColor=C7A0FF)
 
 ### Cloud, qualidade e ferramentas
 
@@ -107,13 +103,13 @@ Plataforma digital desenvolvida para fortalecer a presença online de uma academ
 - Arquitetura baseada em componentes
 - Comunicação entre frontend e API
 - Interface adaptada para diferentes dispositivos
-- Semântica e fundamentos de acessibilidade
+- HTML semântico e fundamentos de acessibilidade
 - Configuração por variáveis de ambiente
 - Backend com endpoints de status e alunos
-- Persistência com SQLAlchemy e SQLite
+- Persistência de dados utilizada no projeto
 - Estrutura preparada para área do aluno e administração
 
-**Stack:** React, Vite, JavaScript, CSS, Python, FastAPI, SQLAlchemy e SQLite.
+**Stack:** React, Vite, JavaScript, CSS, Python e FastAPI.
 
 [Ver TOP FIT Academia →](https://github.com/joselysilva-dev/top-fit-academia)
 
@@ -205,12 +201,12 @@ Plataforma Full Stack com área pública, ambiente protegido da aluna e administ
 - Controle de perfis e permissões
 - API REST com Node.js e Express
 - Autenticação com Supabase
-- Migrations de banco de dados
+- Migrations de banco de dados utilizadas no projeto
 - Políticas de Row Level Security
 - Integração entre frontend e backend
 - Validação de sessão e tratamento de erros
 
-**Stack:** React, TypeScript, Vite, Node.js, Express, Supabase e PostgreSQL.
+**Stack:** React, TypeScript, Vite, Node.js, Express e Supabase.
 
 [Ver Karla Premium →](https://github.com/joselysilva-dev/karla-premium)
 
@@ -222,7 +218,7 @@ Os projetos desta seção registram minha evolução acadêmica e prática em Ba
 
 | Projeto | Área | Conhecimentos desenvolvidos |
 |---|---|---|
-| [Backend Learning Lab](https://github.com/joselysilva-dev/backend-learning-lab) | Backend | C#, ASP.NET Core, Entity Framework Core, SQLite e Swagger |
+| [Backend Learning Lab](https://github.com/joselysilva-dev/backend-learning-lab) | Backend | C#, ASP.NET Core, Entity Framework Core e Swagger |
 | [GPA Calculator](https://github.com/joselysilva-dev/01-csharp-gpa-calculator) | Fundamentos | C#, .NET, lógica, variáveis, cálculos e aplicações de console |
 | [Cloud DevOps Lab](https://github.com/joselysilva-dev/clouddevops-lab) | Cloud e DevOps | ASP.NET Core, Azure, Terraform e GitHub Actions |
 | [JourneyPro](https://github.com/joselysilva-dev/journeypro-ux-case) | UX/UI | Pesquisa, persona, arquitetura da informação e acessibilidade |
@@ -238,7 +234,7 @@ Os projetos desta seção registram minha evolução acadêmica e prática em Ba
 | Área | Conhecimentos e práticas |
 |---|---|
 | **Backend** | APIs REST, validação de dados, tratamento de erros e separação de responsabilidades |
-| **Bancos de dados** | Modelagem, relacionamentos, SQL, migrations e persistência |
+| **Banco de dados** | Fundamentos de PostgreSQL e linguagem SQL — em aprendizado |
 | **Segurança** | Autenticação, autorização, proteção de rotas e variáveis de ambiente |
 | **Frontend** | Componentização, responsividade, acessibilidade e estados de interface |
 | **Qualidade** | Git, documentação, lint, build e testes de API |
@@ -268,8 +264,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 - Arquitetura de APIs com **C# e ASP.NET Core**
 - Desenvolvimento Backend com **Python e FastAPI**
 - Fundamentos de bancos de dados
-- Modelagem conceitual, lógica e física
-- PostgreSQL e linguagem SQL
+- **PostgreSQL e linguagem SQL**
 - Testes automatizados e qualidade de software
 - Docker, integração contínua e deploy
 - Microsoft Azure e AWS
