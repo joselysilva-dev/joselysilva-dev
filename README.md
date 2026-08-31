@@ -5,12 +5,12 @@
 ### Engenharia de software com propósito, organização e criatividade
 
 Desenvolvo aplicações web e estudo a construção de soluções digitais completas,  
-da criação de APIs até o desenvolvimento da interface e publicação.
+da criação de APIs ao desenvolvimento da interface e publicação.
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C5CFC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselysilvadev)
-[![E-mail](https://img.shields.io/badge/E--mail-D65DB1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselysilvadev@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-D65DB1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselysilva.dev@gmail.com)
 [![Repositórios](https://img.shields.io/badge/Repositórios-2A1835?style=for-the-badge&logo=github&logoColor=F4B8E4)](https://github.com/joselysilva-dev?tab=repositories)
 
 </div>
@@ -21,11 +21,11 @@ da criação de APIs até o desenvolvimento da interface e publicação.
 
 Sou estudante do **2º semestre de Engenharia de Software**, com foco em desenvolvimento **Backend e Full Stack**.
 
-Minha formação combina programação, desenvolvimento web, segurança, computação em nuvem e fundamentos de Engenharia de Software.
+Minha formação envolve programação, desenvolvimento web, segurança, computação em nuvem, banco de dados e fundamentos de Engenharia de Software.
 
-Estou construindo minha experiência por meio da faculdade, cursos complementares, laboratórios técnicos e projetos práticos. Já desenvolvo interfaces responsivas, aplicações web, integrações e APIs em ambientes de aprendizagem.
+Construo minha experiência por meio da graduação, cursos complementares, laboratórios técnicos e projetos práticos. Já desenvolvo interfaces responsivas, aplicações web, integrações e APIs em ambientes de aprendizagem e portfólio.
 
-Atualmente, estou cursando a disciplina de **Banco de Dados** na graduação e desenvolvendo conhecimentos iniciais em **PostgreSQL e linguagem SQL**.
+Atualmente, estou cursando a disciplina de **Banco de Dados** e desenvolvendo conhecimentos iniciais em **PostgreSQL e linguagem SQL**.
 
 Busco transformar necessidades reais em soluções digitais organizadas, acessíveis e preparadas para evoluir.
 
@@ -65,6 +65,7 @@ Busco transformar necessidades reais em soluções digitais organizadas, acessí
 ### Banco de dados — em aprendizado
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2A1835?style=for-the-badge&logo=postgresql&logoColor=C7A0FF)
+![SQL](https://img.shields.io/badge/SQL_em_aprendizado-2A1835?style=for-the-badge&logo=postgresql&logoColor=F4B8E4)
 
 ### Cloud, qualidade e ferramentas
 
@@ -81,43 +82,49 @@ Busco transformar necessidades reais em soluções digitais organizadas, acessí
 
 # 💗 Projetos em destaque
 
-## TOP FIT Academia
+## 🏋️ TOP FIT Academia
 
-Plataforma digital desenvolvida para fortalecer a presença online de uma academia local e preparar sua futura evolução tecnológica.
+Plataforma Full Stack desenvolvida para fortalecer a presença digital de uma academia e preparar sua evolução para um ambiente completo de gestão e relacionamento com alunos.
+
+> **Status:** em desenvolvimento ativo.
 
 **Principais recursos**
 
-- Landing page comercial responsiva
-- Apresentação de planos, estrutura e profissionais
-- Galeria de imagens
-- Depoimentos
+- Site institucional responsivo
+- Apresentação de planos e profissionais
+- Área dedicada à personal trainer
+- Área do aluno
+- Painel administrativo
+- Autenticação de usuários
+- Autenticação com Google
+- Verificação em duas etapas
+- Blog e newsletter
 - Integração com WhatsApp
-- Integração com Google Maps
-- Fundamentos de SEO
 - Progressive Web App
-- API desenvolvida com FastAPI
-- Estrutura administrativa em desenvolvimento
+- Fundamentos de SEO
 
 **Engenharia aplicada**
 
 - Arquitetura baseada em componentes
 - Comunicação entre frontend e API
-- Interface adaptada para diferentes dispositivos
-- HTML semântico e fundamentos de acessibilidade
-- Configuração por variáveis de ambiente
-- Backend com endpoints de status e alunos
+- API desenvolvida com FastAPI
+- Autenticação e proteção de rotas
 - Persistência de dados utilizada no projeto
-- Estrutura preparada para área do aluno e administração
+- Interface adaptada para diferentes dispositivos
+- Configuração por variáveis de ambiente
+- Estrutura preparada para futuras evoluções
 
-**Stack:** React, Vite, JavaScript, CSS, Python e FastAPI.
+**Stack do projeto:** React, Vite, JavaScript, Python, FastAPI, SQLAlchemy e PostgreSQL.
 
 [Ver TOP FIT Academia →](https://github.com/joselysilva-dev/top-fit-academia)
 
 ---
 
-## FutureTech Hub
+## 🚀 FutureTech Hub
 
-Hub educacional e laboratório de tecnologia criado para reunir conteúdos, projetos e experimentos sobre Engenharia de Software, inteligência artificial, cloud, certificações e carreira.
+Hub educacional e laboratório digital criado para reunir conteúdos, projetos e experimentos sobre Engenharia de Software, inteligência artificial, cloud, certificações e carreira.
+
+> **Status:** em desenvolvimento.
 
 **Principais recursos**
 
@@ -139,15 +146,18 @@ Hub educacional e laboratório de tecnologia criado para reunir conteúdos, proj
 - Fundamentos de SEO
 - Respeito à preferência de redução de movimento
 
-**Stack:** React, Vite, JavaScript e CSS.
+**Stack do projeto:** React, Vite, JavaScript e CSS.
 
-[Ver FutureTech Hub →](https://github.com/joselysilva-dev/futuretech-hub)
+[Ver repositório →](https://github.com/joselysilva-dev/futuretech-hub)  
+[Visualizar projeto →](https://futuretech-hub.vercel.app)
 
 ---
 
-## Clínica Dra. Kelle Gomes
+## 🌸 Clínica Dra. Kelle Gomes
 
 Experiência digital premium criada para apresentar os serviços, a autoridade profissional e os canais de atendimento de uma clínica de estética avançada.
+
+> **Status:** primeira versão desenvolvida e disponível para apresentação.
 
 **Principais recursos**
 
@@ -155,8 +165,9 @@ Experiência digital premium criada para apresentar os serviços, a autoridade p
 - Apresentação da profissional
 - Procedimentos faciais e corporais
 - Cursos, formações e mentorias
-- Resultados e seção de antes e depois
-- Agendamento de atendimentos
+- Seção de resultados
+- Agenda de atendimentos
+- Vídeo institucional
 - Perguntas frequentes
 - Integração com WhatsApp e Instagram
 - Política de Privacidade e Termos de Uso
@@ -170,62 +181,67 @@ Experiência digital premium criada para apresentar os serviços, a autoridade p
 - Microanimações
 - Fundamentos de acessibilidade
 - SEO
-- Estrutura preparada para futura administração
+- Configuração centralizada de contatos
 
-**Stack:** React, TypeScript, Vite, React Router, CSS Modules e Framer Motion.
+**Stack do projeto:** React, TypeScript, Vite, React Router, CSS Modules e Framer Motion.
 
 [Ver Clínica Dra. Kelle Gomes →](https://github.com/joselysilva-dev/clinica-kelle-gomes)
 
 ---
 
-## Karla Premium
+## ✨ Karla Premium
 
-Plataforma Full Stack com área pública, ambiente protegido da aluna e administração exclusiva para gerenciamento de acessos e conteúdos premium.
+Plataforma Full Stack desenvolvida para acompanhamento, experiência digital e relacionamento com alunas.
+
+> **Status:** em desenvolvimento.
 
 **Principais recursos**
 
-- Autenticação de usuários
-- Gerenciamento de sessão
+- Autenticação de usuárias
 - Área protegida da aluna
+- Perfil da aluna
+- Aplicativo de treinos
 - Painel administrativo
 - Controle de acesso premium
 - Sistema de convites
-- Organização de módulos e conteúdos
 - Recuperação de senha
+- Autenticação multifator
+- Inteligência artificial integrada
+- Memória persistente do chat
 - Páginas legais
-- Integração com recursos de inteligência artificial
 
 **Engenharia aplicada**
 
-- Rotas protegidas
+- Rotas públicas, privadas e administrativas
 - Controle de perfis e permissões
 - API REST com Node.js e Express
 - Autenticação com Supabase
-- Migrations de banco de dados utilizadas no projeto
-- Políticas de Row Level Security
 - Integração entre frontend e backend
+- Migrations utilizadas no projeto
+- Políticas de Row Level Security
+- Integração com Google Gemini
 - Validação de sessão e tratamento de erros
 
-**Stack:** React, TypeScript, Vite, Node.js, Express e Supabase.
+**Stack do projeto:** React, TypeScript, Vite, Node.js, Express, Supabase e Google Gemini.
 
-[Ver Karla Premium →](https://github.com/joselysilva-dev/karla-premium)
+[Ver repositório →](https://github.com/joselysilva-dev/karla-premium)  
+[Visualizar projeto →](https://karla-premium.vercel.app)
 
 ---
 
 ## 🧪 Laboratórios técnicos e aprendizagem
 
-Os projetos desta seção registram minha evolução acadêmica e prática em Backend, programação, experiência do usuário e ferramentas de Engenharia de Software.
+Os projetos desta seção registram minha evolução acadêmica e prática em desenvolvimento Backend, programação, Git, experiência do usuário e prototipação de produtos digitais.
 
-| Projeto | Área | Conhecimentos desenvolvidos |
+| Projeto | Área | Conhecimentos praticados |
 |---|---|---|
-| [Backend Learning Lab](https://github.com/joselysilva-dev/backend-learning-lab) | Backend | C#, ASP.NET Core, Entity Framework Core e Swagger |
-| [GPA Calculator](https://github.com/joselysilva-dev/01-csharp-gpa-calculator) | Fundamentos | C#, .NET, lógica, variáveis, cálculos e aplicações de console |
-| [Cloud DevOps Lab](https://github.com/joselysilva-dev/clouddevops-lab) | Cloud e DevOps | ASP.NET Core, Azure, Terraform e GitHub Actions |
-| [JourneyPro](https://github.com/joselysilva-dev/journeypro-ux-case) | UX/UI | Pesquisa, persona, arquitetura da informação e acessibilidade |
-| [Mãe Leve Planner](https://github.com/joselysilva-dev/mae-leveplanner) | Produto e UX/UI | Jornada do usuário, organização de tarefas e prototipação mobile |
-| [Introduction to Git](https://github.com/joselysilva-dev/skills-introduction-to-git) | Git e GitHub | Controle de versão, branches, commits e colaboração |
+| [Backend Learning Lab](https://github.com/joselysilva-dev/backend-learning-lab) | Backend | C#, ASP.NET Core, API REST, CRUD, Entity Framework Core, JWT e Swagger |
+| [GPA Calculator](https://github.com/joselysilva-dev/01-csharp-gpa-calculator) | Fundamentos de programação | C#, .NET 8, variáveis, tipos de dados, cálculos e aplicações de console |
+| [JourneyPro](https://github.com/joselysilva-dev/journeypro-ux-case) | UX/UI | Persona, arquitetura da informação, wireframes, prototipação e acessibilidade |
+| [Mãe Leve Planner](https://github.com/joselysilva-dev/mae-leveplanner) | Produto e UX/UI | Jornada do usuário, organização de tarefas, wireframes e prototipação mobile |
+| [Introduction to Git](https://github.com/joselysilva-dev/skills-introduction-to-git) | Git e GitHub | Exercício introdutório sobre controle de versão e fluxo de trabalho no GitHub |
 
-> Os laboratórios são apresentados separadamente dos projetos principais para demonstrar minha evolução acadêmica e técnica com clareza.
+> Estes laboratórios representam projetos acadêmicos, exercícios e estudos práticos desenvolvidos durante minha formação em Engenharia de Software.
 
 ---
 
@@ -233,9 +249,9 @@ Os projetos desta seção registram minha evolução acadêmica e prática em Ba
 
 | Área | Conhecimentos e práticas |
 |---|---|
-| **Backend** | APIs REST, validação de dados, tratamento de erros e separação de responsabilidades |
+| **Backend** | APIs REST, CRUD, validação de dados, tratamento de erros e separação de responsabilidades |
 | **Banco de dados** | Fundamentos de PostgreSQL e linguagem SQL — em aprendizado |
-| **Segurança** | Autenticação, autorização, proteção de rotas e variáveis de ambiente |
+| **Segurança** | Autenticação, autorização, JWT, proteção de rotas e variáveis de ambiente |
 | **Frontend** | Componentização, responsividade, acessibilidade e estados de interface |
 | **Qualidade** | Git, documentação, lint, build e testes de API |
 | **Produto** | Análise de problemas, experiência do usuário e evolução organizada por versões |
@@ -246,13 +262,12 @@ Os projetos desta seção registram minha evolução acadêmica e prática em Ba
 
 - Landing pages e sites institucionais responsivos
 - Interfaces comerciais para pequenos negócios
-- Catálogos digitais
-- Blogs e páginas de conteúdo
 - Progressive Web Apps
 - Integrações com WhatsApp e Google Maps
 - Interfaces com fundamentos de acessibilidade
-- APIs REST em projetos de estudo e desenvolvimento
+- APIs REST em ambientes de estudo e desenvolvimento
 - Áreas administrativas e ambientes protegidos
+- Protótipos e estudos de experiência do usuário
 - Soluções digitais personalizadas
 
 ---
@@ -270,6 +285,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 - Microsoft Azure e AWS
 - Segurança de aplicações e controle de acesso
 - Arquitetura de software
+- Inteligência artificial aplicada ao desenvolvimento
 
 ---
 
@@ -281,7 +297,7 @@ Estou disponível para oportunidades de **estágio**, posições **remotas**
 e desenvolvimento de projetos **freelancer**.
 
 [![Conectar no LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-7C5CFC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselysilvadev)
-[![Falar por e-mail](https://img.shields.io/badge/Falar_por_e--mail-D65DB1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselysilvadev@gmail.com)
+[![Falar por e-mail](https://img.shields.io/badge/Falar_por_e--mail-D65DB1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselysilva.dev@gmail.com)
 
 <br>
 
